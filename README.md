@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img class="el" width="300px" border="4px solid #ff0000" src="https://c.tenor.com/ox1MT_gz-lYAAAAd/cat-kitty.gif" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f2hafner&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f2hafner&theme=highcontrast&show_icons=true)
+
 <!--
 **f2hafner/f2hafner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
