@@ -1,22 +1,15 @@
-### Hi there 👋
+![](ghbanner.png)
 
-<img class="el" width="300px" border="4px solid #ff0000" src="https://c.tenor.com/ox1MT_gz-lYAAAAd/cat-kitty.gif" />
+# Hia!
+
+Just some **average** student 📚 trying to fill his freetime 🕐 with some **delightful** ✨ problem solving using Technology 🖥️.
+
+*have a cat gif looking at an awesome person*
+<img class="el" width="150px" src="https://c.tenor.com/ox1MT_gz-lYAAAAd/cat-kitty.gif" />
+
+# Some Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f2hafner&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f2hafner&theme=highcontrast&show_icons=true)
 
-<!--
-**f2hafner/f2hafner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
