@@ -5,6 +5,7 @@
 Just some **average** student 📚 trying to fill his freetime 🕐 with some **delightful** ✨ problem solving using Technology 🖥️.
 
 *have a cat gif looking at an awesome person*
+
 <img class="el" width="150px" src="https://c.tenor.com/ox1MT_gz-lYAAAAd/cat-kitty.gif" />
 
 # Some Stats
