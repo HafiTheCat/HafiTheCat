@@ -1,4 +1,4 @@
-![](ghbanner.png)
+![](github_banner.png)
 
 # Hia!
 
