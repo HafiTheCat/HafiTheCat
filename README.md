@@ -37,8 +37,6 @@ Just some **average** student 📚 trying to fill his freetime 🕐 with some **
 <h3 align="center">Things i have tried out (but not yet mastered)</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/style--3DDC84?labelColor=000&logo=Android Studio&label=Android Studio">
-<img src="https://img.shields.io/badge/style--F9DC3E?labelColor=000&logo=Babel&label=Babel">
 <img src="https://img.shields.io/badge/style--E42528?labelColor=000&logo=Apache CouchDB&logoColor=E42528&label=CouchDB">
 <img src="https://img.shields.io/badge/style--646CFF?labelColor=000&logo=data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjQxMCIgaGVpZ2h0PSI0MDQiIHZpZXdCb3g9IjAgMCA0MTAgNDA0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMzk5LjY0MSA1OS41MjQ2TDIxNS42NDMgMzg4LjU0NUMyMTEuODQ0IDM5NS4zMzggMjAyLjA4NCAzOTUuMzc4IDE5OC4yMjggMzg4LjYxOEwxMC41ODE3IDU5LjU1NjNDNi4zODA4NyA1Mi4xODk2IDEyLjY4MDIgNDMuMjY2NSAyMS4wMjgxIDQ0Ljc1ODZMMjA1LjIyMyA3Ny42ODI0QzIwNi4zOTggNzcuODkyNCAyMDcuNjAxIDc3Ljg5MDQgMjA4Ljc3NiA3Ny42NzYzTDM4OS4xMTkgNDQuODA1OEMzOTcuNDM5IDQzLjI4OTQgNDAzLjc2OCA1Mi4xNDM0IDM5OS42NDEgNTkuNTI0NloiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcikiLz4KPHBhdGggZD0iTTI5Mi45NjUgMS41NzQ0TDE1Ni44MDEgMjguMjU1MkMxNTQuNTYzIDI4LjY5MzcgMTUyLjkwNiAzMC41OTAzIDE1Mi43NzEgMzIuODY2NEwxNDQuMzk1IDE3NC4zM0MxNDQuMTk4IDE3Ny42NjIgMTQ3LjI1OCAxODAuMjQ4IDE1MC41MSAxNzkuNDk4TDE4OC40MiAxNzAuNzQ5QzE5MS45NjcgMTY5LjkzMSAxOTUuMTcyIDE3My4wNTUgMTk0LjQ0MyAxNzYuNjIyTDE4My4xOCAyMzEuNzc1QzE4Mi40MjIgMjM1LjQ4NyAxODUuOTA3IDIzOC42NjEgMTg5LjUzMiAyMzcuNTZMMjEyLjk0NyAyMzAuNDQ2QzIxNi41NzcgMjI5LjM0NCAyMjAuMDY1IDIzMi41MjcgMjE5LjI5NyAyMzYuMjQyTDIwMS4zOTggMzIyLjg3NUMyMDAuMjc4IDMyOC4yOTQgMjA3LjQ4NiAzMzEuMjQ5IDIxMC40OTIgMzI2LjYwM0wyMTIuNSAzMjMuNUwzMjMuNDU0IDEwMi4wNzJDMzI1LjMxMiA5OC4zNjQ1IDMyMi4xMDggOTQuMTM3IDMxOC4wMzYgOTQuOTIyOEwyNzkuMDE0IDEwMi40NTRDMjc1LjM0NyAxMDMuMTYxIDI3Mi4yMjcgOTkuNzQ2IDI3My4yNjIgOTYuMTU4M0wyOTguNzMxIDcuODY2ODlDMjk5Ljc2NyA0LjI3MzE0IDI5Ni42MzYgMC44NTUxODEgMjkyLjk2NSAxLjU3NDRaIiBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXIpIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXIiIHgxPSI2LjAwMDE3IiB5MT0iMzIuOTk5OSIgeDI9IjIzNSIgeTI9IjM0NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgo8c3RvcCBzdG9wLWNvbG9yPSIjNDFEMUZGIi8+CjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI0JEMzRGRSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MV9saW5lYXIiIHgxPSIxOTQuNjUxIiB5MT0iOC44MTgxOCIgeDI9IjIzNi4wNzYiIHkyPSIyOTIuOTg5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiNGRkVBODMiLz4KPHN0b3Agb2Zmc2V0PSIwLjA4MzMzMzMiIHN0b3AtY29sb3I9IiNGRkREMzUiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkZBODAwIi8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+&label=Vite">
 <img src="https://img.shields.io/badge/style--654FF0?labelColor=000&logo=WebAssembly&logoColor=654FF0&label=WebAssembly">
@@ -47,8 +45,6 @@ Just some **average** student 📚 trying to fill his freetime 🕐 with some **
 <img src="https://img.shields.io/badge/style--C21325?labelColor=000&logo=Jest&logoColor=C21325&label=Jest">
 <img src="https://img.shields.io/badge/style--A8B9CC?labelColor=000&logo=C&label=C">
 <img src="https://img.shields.io/badge/style--239120?labelColor=000&logo=C Sharp&logoColor=239120&label=C Sharp">
-<img src="https://img.shields.io/badge/style--00007C?labelColor=000&logo=Lua&logoColor=00007C&label=Lua">
-<img src="https://img.shields.io/badge/style--2D3748?labelColor=000&logo=Prisma&label=Prisma">
 </p>
 
 
@@ -71,6 +67,9 @@ Just some **average** student 📚 trying to fill his freetime 🕐 with some **
 <img src="https://img.shields.io/badge/style--F3702A?labelColor=000&logo=SonarCloud&label=SonarCloud">
 <img src="https://img.shields.io/badge/style--1868F2?labelColor=000&logo=Vagrant&logoColor=1868F2&label=Vagrant">
 <img src="https://img.shields.io/badge/style--183A61?labelColor=000&logo=VirtualBox&logoColor=183A61&label=VirtualBox">
+<img src="https://img.shields.io/badge/style--2D3748?labelColor=000&logo=Prisma&label=Prisma">
+<img src="https://img.shields.io/badge/style--F9DC3E?labelColor=000&logo=Babel&label=Babel">
+<img src="https://img.shields.io/badge/style--00007C?labelColor=000&logo=Lua&logoColor=00007C&label=Lua">
 </p>
 
 <h3 align="center">Other tools I somewhat know my way around</h3>
