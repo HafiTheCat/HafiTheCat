@@ -36,7 +36,8 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
 
   <details align="center">
     <summary>Computer Lingo</summary>
-
+  
+  ![](https://img.shields.io/badge/Rust-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Javascript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Typescript-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
