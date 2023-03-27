@@ -20,8 +20,9 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
 ![Learning for Life](https://img.shields.io/badge/-%F0%9F%93%9A%20Learning%20for%20Life-darkgreen?style=for-the-badge)
 ![Game Development](https://img.shields.io/badge/-%F0%9F%8E%B2%20Game%20Development-blueviolet?style=for-the-badge)
 ![Music Engineering](https://img.shields.io/badge/-%F0%9F%8E%B9%20Music%20Engineering-purple?style=for-the-badge)
-![Average Music Enjoyer](https://img.shields.io/badge/-%F0%9F%93%9C%20Average%20Noise%20Enjoyer-brown?style=for-the-badge)
+![Average Music Enjoyer](https://img.shields.io/badge/-%F0%9F%8E%B5%20Average%20Noise%20Enjoyer-brown?style=for-the-badge)
 ![Philosophy](https://img.shields.io/badge/-%F0%9F%93%9C%20Philosophy-beige?style=for-the-badge)
+![Philosophy](https://img.shields.io/badge/-%F0%9F%A6%80%20Rustacean-black?style=for-the-badge)
 </h4>
 
 ---
@@ -37,12 +38,12 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   <details align="center">
     <summary>Computer Lingo</summary>
   
-  ![](https://img.shields.io/badge/Rust-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/Rust-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Javascript-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Typescript-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Java-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Python-%E2%AD%90-black?style=flat-squared&labelColor=000)
-  ![](https://img.shields.io/badge/[ASP]clingo-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/[ASP]clingo-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/MIPS-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/WASM-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/C-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
@@ -55,7 +56,7 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   <details align="center">
     <summary>Frontend Frameworks</summary>
 
-  ![](https://img.shields.io/badge/Svelte-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/Svelte-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/SvelteKit-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Vue-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Angular-%E2%AD%90-black?style=flat-squared&labelColor=000)
@@ -88,7 +89,8 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
 
   <details align="center">
     <summary>GameEngines</summary>
-
+  
+  ![](https://img.shields.io/badge/Bevy-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Unity-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Godot-%E2%AD%90-black?style=flat-squared&labelColor=000)
   </details>
@@ -124,6 +126,7 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   <details align="center">
     <summary>Package Managers</summary>
 
+  ![](https://img.shields.io/badge/cargo-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/pnpm-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/npm-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/yarn-%E2%AD%90-black?style=flat-squared&labelColor=000)
@@ -138,9 +141,11 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   <details align="center">
     <summary>Other Libraries</summary>
 
+  ![](https://img.shields.io/badge/a-frame-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/three.js-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/JsonWebTokens-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Electron-%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/tauri-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/zod-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   </details>
 
@@ -148,13 +153,13 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
     <summary>Design and Prototyping Tools</summary>
 
   ![](https://img.shields.io/badge/HTML5-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
-  ![](https://img.shields.io/badge/Figma-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/Figma-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Markdown-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
-  ![](https://img.shields.io/badge/Krita-%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/Krita-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/paint.NET-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/FL--Studio-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Audacity-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
-  ![](https://img.shields.io/badge/Blender-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/Blender-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Aseprite-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/MagicaVoxel-%E2%AD%90-black?style=flat-squared&labelColor=000)
   </details>
@@ -163,7 +168,7 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
     <summary>Stylesheet Stuff</summary>
 
   ![](https://img.shields.io/badge/CSS3-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
-  ![](https://img.shields.io/badge/tailwind-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/tailwind-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/less-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/scss-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/sass-%E2%AD%90-black?style=flat-squared&labelColor=000)
@@ -172,9 +177,9 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   <details align="center">
     <summary>IDEs</summary>
 
-  ![](https://img.shields.io/badge/VSCode-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/VSCode-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Rider-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
-  ![](https://img.shields.io/badge/IntelliJ-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/IntelliJ-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/CLion-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/AndroidStudio-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/Arduino-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
