@@ -20,9 +20,9 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
 ![Learning for Life](https://img.shields.io/badge/-%F0%9F%93%9A%20Learning%20for%20Life-darkgreen?style=for-the-badge)
 ![Game Development](https://img.shields.io/badge/-%F0%9F%8E%B2%20Game%20Development-blueviolet?style=for-the-badge)
 ![Music Engineering](https://img.shields.io/badge/-%F0%9F%8E%B9%20Music%20Engineering-purple?style=for-the-badge)
-![Average Music Enjoyer](https://img.shields.io/badge/-%F0%9F%8E%B5%20Average%20Noise%20Enjoyer-brown?style=for-the-badge)
+![Music Enjoyer](https://img.shields.io/badge/-%F0%9F%8E%B5%20Noise%20Enjoyer-brown?style=for-the-badge)
 ![Philosophy](https://img.shields.io/badge/-%F0%9F%93%9C%20Philosophy-beige?style=for-the-badge)
-![Philosophy](https://img.shields.io/badge/-%F0%9F%A6%80%20Rustacean-black?style=for-the-badge)
+![Rustacean](https://img.shields.io/badge/-%F0%9F%A6%80%20Rustacean-black?style=for-the-badge)
 </h4>
 
 ---
