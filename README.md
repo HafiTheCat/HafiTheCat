@@ -29,7 +29,7 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
 
 ---
 
-<h2 align="center">-=-=- Tech Knowledgebase -=-=-</h2>
+<h2 align="center">🗃️ Tech Knowledgebase 🗃️</h2>
   <details align="center">
     <summary>World Lingo</summary>
 
@@ -187,9 +187,12 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   ![](https://img.shields.io/badge/Arduino-%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   </details>
 
-<h2 align="center">-=-=- Some Stats -=-=-</h2>
+<h2 align="center">📊 Some Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafiTheCat&theme=highcontrast&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafiTheCat&layout=compact&theme=highcontrast">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafithecat&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafithecat&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafithecat&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafithecat&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafithecat&theme=react&utcOffset=8">
 </p>
