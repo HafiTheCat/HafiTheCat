@@ -190,6 +190,6 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
 <h2 align="center">-=-=- Some Stats -=-=-</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f2hafner&theme=highcontrast&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f2hafner&layout=compact&theme=highcontrast">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafiTheCat&theme=highcontrast&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafiTheCat&layout=compact&theme=highcontrast">
 </p>
