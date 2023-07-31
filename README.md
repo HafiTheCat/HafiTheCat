@@ -108,7 +108,7 @@ Just some **average** cat trying to fill the freetime 🕐 with some **delightfu
   <details align="center">
     <summary>CI/CD</summary>
 
-  ![](https://img.shields.io/badge/TravisCI&-%E2%AD%90-black?style=flat-squared&labelColor=000)
+  ![](https://img.shields.io/badge/TravisCI-%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/SonarCloud-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   ![](https://img.shields.io/badge/GithubActions-%E2%AD%90%E2%AD%90%E2%AD%90-black?style=flat-squared&labelColor=000)
   </details>
